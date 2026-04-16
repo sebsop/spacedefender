@@ -57,7 +57,7 @@ Developing SpaceDefender was a rewarding experience where I:
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/dosqas/spacedefender.git
+   git clone https://github.com/sebsop/spacedefender.git
    ```
 
 2. **Open the project:**
